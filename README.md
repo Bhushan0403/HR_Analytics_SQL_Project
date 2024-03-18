@@ -29,7 +29,7 @@ The primary dataset utilized for this analysis is sourced from the "Human_Resour
 ### Questions Answered in Data Analysis Process in MySQL Workbench
 
 1. Total Number of Employees.
-2. Avearge age
+2. Avearge age of Employees.
 3. The gender breakdown of employees in the company.
 4. Race/ethnicity breakdown of employees.
 5. Age distribution of employees.
