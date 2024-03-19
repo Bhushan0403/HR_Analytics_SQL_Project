@@ -7,6 +7,7 @@
 - [Tools Used](#Tools-Used)
 - [Data Preparation and Data Cleaning](#Data-Preparation-and-Data-Cleaning-Process-in-MySQL-Workbench)
 - [Data Analysis](#Questions-Answered-in-Data-Analysis-Process-in-MySQL-Workbench)
+- [Visualization in Power BI](#Visualization-in-Power-BI)
 - [Findings](#Findings-from-the-Analysis)
 - [Limitations](#Limitations)
 
@@ -53,6 +54,13 @@ The primary dataset utilized for this analysis is sourced from the "Human_Resour
 13. Tenure distribution for each department
 
 #### Note: Data cleaning and data analysis SQL files are attached for reference.
+
+### Visualization in Power BI
+
+- After completing data cleaning and analysis in MySQL, the results were exported to CSV files.
+- These CSV files served as the basis for creating a visually appealing dashboard in Power BI.
+- The purpose of this Power BI dashboard was to provide a better understanding of the outcomes derived from the SQL data analysis.
+- It's important to note that the Power BI dashboard created is non-interactive; it was designed solely for visually representing the insights obtained through SQL data analysis.
 
 ### Findings from the Analysis
 
