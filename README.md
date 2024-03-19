@@ -1,5 +1,10 @@
 # HR Data Analysis
 
+## Table of Contents
+
+- [Project Overview](#Project-Overview)
+- 
+
 ### Project Overview
 
 The aim of this HR analytics project is to gain insights into the workforce dynamics and trends within the organization. By analyzing the HR dataset, we aim to uncover patterns related to employee demographics, tenure, turnover rates, departmental distributions, and more. Ultimately, this analysis will empower decision-makers to optimize HR strategies, improve employee retention, and enhance organizational performance.
