@@ -3,7 +3,12 @@
 ## Table of Contents
 
 - [Project Overview](#Project-Overview)
-- 
+- [Data Source](#Data-Source)
+- [Tools Used](#Tools-Used)
+- [Data Preparation and Data Cleaning](#Data-Preparation-and-Data-Cleaning-Process-in-MySQL-Workbench)
+- [Data Analysis](#Questions-Answered-in-Data-Analysis-Process-in-MySQL-Workbench)
+- [Findings](#Findings-from-the-Analysis)
+- [Limitations](#Limitations)
 
 ### Project Overview
 
